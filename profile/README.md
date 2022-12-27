@@ -78,20 +78,7 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+  ## Buy Me A Coffee
 
 <div align="center">
             <a href="https://paypal.me/createitv" target="_blank" style="display: inline-block;">
